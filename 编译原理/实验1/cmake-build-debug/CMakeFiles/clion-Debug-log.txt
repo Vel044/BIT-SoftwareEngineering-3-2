@@ -1,0 +1,7 @@
+"C:\Program Files\JetBrains\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2024.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S D:\Tasks\编译原理\实验1 -B D:\Tasks\编译原理\实验1\cmake-build-debug
+-- Could NOT find FLEX (missing: FLEX_EXECUTABLE) 
+CMake Error at CMakeLists.txt:9 (message):
+  Error: flex not found!
+
+
+-- Configuring incomplete, errors occurred!
